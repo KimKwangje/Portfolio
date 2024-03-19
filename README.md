@@ -1,5 +1,3 @@
-# Portfolio
-
 <h1>SLowStarter</h1>
 <h3>
   김광제
