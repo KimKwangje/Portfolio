@@ -74,7 +74,7 @@
   Team Project
 </h3>
 <h4>
- The Shilla : 신라호텔 리뉴얼
+ The Shilla : 신라호텔 리뉴얼 <br/>
 '??? , 개발인원 7명
 </h4>
 
@@ -99,7 +99,7 @@
 
 </br>
 <h4>
- The Shilla : 신라호텔 리뉴얼
+ The Shilla : 신라호텔 리뉴얼 <br/>
 '24.02.22 - '24.02.29 (1주) , 개발인원 7명
 </h4>
 
@@ -114,9 +114,8 @@
  역할 : Back-End
 </h4>
 <p>
- CRUD 기능 구현
- 게시판 기능 구현
-  : Eclipse와 Servlet/JSP을 이용하여 게시판의 CRUD 구현, 페이징처리와 검색 기능 추가
+ CRUD 기능 구현 <br/>
+ 게시판 기능 구현 : Eclipse와 Servlet/JSP을 이용하여 게시판의 CRUD 구현, 페이징처리와 검색 기능 추가
 </p>
 <a href="https://github.com/KimKwangje/Shilla_CRUD">
   <img align="center" src="https://github.com/KimKwangje/Portfolio/assets/143483634/0f7cf594-979f-483a-9e11-34d756e8d9d1" alt="shilla_Back" width="50%" />
