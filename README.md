@@ -89,7 +89,7 @@
  역할 : Front-End
 </h4>
 <p>
- 로그인, 회원가입 구현 : VScode와 HTML5, CSS3, JavaScript, JQuery를 이용하여 기능 구현
+ 로그인, 회원가입 구현
 </p>
 <a href="#">
   <img align="left" alt="#" width="22px" src="#" />
