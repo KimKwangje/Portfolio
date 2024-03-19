@@ -120,10 +120,9 @@
 <a href="https://github.com/KimKwangje/Shilla_CRUD">
   <img align="left" src="https://github.com/KimKwangje/Portfolio/assets/143483634/0f7cf594-979f-483a-9e11-34d756e8d9d1" alt="shilla_Back" width="50%" />
 </a>
-<br>
 
+<br/>
 
-</br>
 <h3>
   Front-End Project
 </h3>
