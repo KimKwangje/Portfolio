@@ -107,15 +107,15 @@
   프로젝트 개요
 </h4>
 <p>
- 신라호텔 리뉴얼 입니다. <br/>
- 리뉴얼한 신라호텔 홈페이지에 로그인, 회원가입, 게시판과 관련된 CRUD기능를 추가 구현했습니다.
+ 신라호텔 CRUD 입니다. <br/>
+ 리뉴얼한 신라호텔 홈페이지에 로그인, 회원가입, 게시판과 관련된 CRUD기능, <br/>
+ 검색기능과 페이징처리를 추가 구현했습니다.
 </p>
 <h4>
  역할 : Back-End
 </h4>
 <p>
- CRUD 기능 구현 <br/>
- 게시판 기능 구현 : Eclipse와 Servlet/JSP을 이용하여 게시판의 CRUD 구현, 페이징처리와 검색 기능 추가
+ 게시판 기능 구현 : 게시판의 CRUD 구현, 페이징처리와 검색 기능 추가
 </p>
 <a href="https://github.com/KimKwangje/Shilla_CRUD">
   <img align="center" src="https://github.com/KimKwangje/Portfolio/assets/143483634/0f7cf594-979f-483a-9e11-34d756e8d9d1" alt="shilla_Back" width="50%" />
