@@ -1,4 +1,4 @@
-<h1>SLowStarter</h1>
+<h1>SlowStarter</h1>
 <h3>
   김광제
 </h3>
