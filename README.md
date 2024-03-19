@@ -115,7 +115,8 @@
 </h4>
 <p>
  CRUD 기능 구현
- 게시판 기능 구현 : Eclipse와 Servlet/JSP을 이용하여 게시판의 CRUD 구현, 페이징처리와 검색 기능 추가
+ 게시판 기능 구현
+  : Eclipse와 Servlet/JSP을 이용하여 게시판의 CRUD 구현, 페이징처리와 검색 기능 추가
 </p>
 <a href="https://github.com/KimKwangje/Shilla_CRUD">
   <img align="center" src="https://github.com/KimKwangje/Portfolio/assets/143483634/0f7cf594-979f-483a-9e11-34d756e8d9d1" alt="shilla_Back" width="50%" />
