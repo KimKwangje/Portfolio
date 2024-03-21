@@ -127,7 +127,7 @@
 
 </br>
 <h3>
-  Front-End Project
+  Project
 </h3>
 <h4>
   Project 01. Weather
