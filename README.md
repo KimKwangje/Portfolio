@@ -188,7 +188,7 @@
   제가 쓰는 화장품을 이용한 사이트
 </p>
 <h4>
-  Front-End, Back-End
+  Front-End
 </h4>
 <a href="http://tymss0726.dothome.co.kr/Makeprem">
   <img align="left" alt="#" width="50%" src="#" target="_blank" />자세히
