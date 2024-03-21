@@ -130,10 +130,14 @@
   Front-End Project
 </h3>
 <h4>
-  Project 01
+  Project 01. Weather
 </h4>
-<a href="#">
-  <img align="left" alt="#" width="22px" src="#" />
+<p>
+  React로 만든 날씨입니다.<br/>
+  날씨API를 사용하여 그 지역의 현재 날씨를 보여줍니다.
+</p>
+<a href="http://tymss0726.dothome.co.kr/Weather">
+  <img align="left" alt="#" width="50%" src="#" />자세히
 </a>
 <br>
 
