@@ -76,32 +76,7 @@
   Team Project
 </h3>
 <h4>
- The Shilla : 신라호텔 리뉴얼 <br/>
-'2023.00.00 ~ 2023.00.00' , 개발인원 7명
-</h4>
-
-<h4>
-  프로젝트 개요
-</h4>
-<p>
- 신라호텔 리뉴얼 입니다. <br/>
- 보기 편한 사이트로 서비스 개선, 호텔에 대한 정보를 보다 빠르게 확인할 수 있도록 편의성 강화, 단순 이미지로 구성된 구조 수정
-</p>
-<h4>
- 역할 : Front-End
-</h4>
-<p>
- 로그인, 회원가입 구현
-</p>
-<a href="https://github.com/KimKwangje/Shilla">
-  <img align="center" src="https://github.com/KimKwangje/Portfolio/assets/143483634/0f7cf594-979f-483a-9e11-34d756e8d9d1" alt="shilla_Back" width="50%" />
-</a>
-<br>
-
-
-</br>
-<h4>
- The Shilla : 신라호텔 CRUD <br/>
+ The Shilla : 신라호텔 리뉴얼 & CRUD <br/>
 '24.02.22 - 24.02.29 (1주)' , 개발인원 7명
 </h4>
 
@@ -109,17 +84,19 @@
   프로젝트 개요
 </h4>
 <p>
- 신라호텔 CRUD 입니다. <br/>
+ 신라호텔 리뉴얼 입니다. <br/>
+ 보기 편한 사이트로 서비스 개선, 호텔에 대한 정보를 보다 빠르게 확인할 수 있도록 편의성 강화, 단순 이미지로 구성된 구조 수정,<br/>
+ 게시판 CRUD 구현
+</p>
+<h4>
+ 역할 : Front-End, Back-End
+</h4>
+<p>
+ 로그인, 회원가입 구현<br/>
  리뉴얼한 신라호텔 홈페이지에 로그인, 회원가입, 게시판과 관련된 CRUD기능, <br/>
  검색기능과 페이징처리를 추가 구현했습니다.
 </p>
-<h4>
- 역할 : Back-End
-</h4>
-<p>
- 게시판 기능 구현 : 게시판의 CRUD 구현, 페이징처리와 검색 기능 추가
-</p>
-<a href="https://github.com/KimKwangje/Shilla_CRUD">
+<a href="https://github.com/KimKwangje/Shilla">
   <img align="center" src="https://github.com/KimKwangje/Portfolio/assets/143483634/0f7cf594-979f-483a-9e11-34d756e8d9d1" alt="shilla_Back" width="50%" />
 </a>
 <br>
