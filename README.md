@@ -117,7 +117,7 @@
   Front-End
 </h4>
 <a href="http://tymss0726.dothome.co.kr/Weather">
-  <img align="left" alt="#" width="50%" src="#" target="_blank" />자세히
+  <img align="left" alt="#" width="50%" src="./images/weather.png/" target="_blank" />자세히
 </a>
 <br>
 
