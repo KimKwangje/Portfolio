@@ -117,7 +117,7 @@
   Front-End
 </h4>
 <a href="http://tymss0726.dothome.co.kr/Weather">
-  <img align="left" alt="#" width="50%" src="./images/weather.png/" target="_blank" />자세히
+  <img align="center" alt="#" width="50%" src="./images/weather.png/" target="_blank" />자세히
 </a>
 <br>
 
@@ -134,7 +134,7 @@
   Front-End, Back-End
 </h4>
 <a href="#">
-  <img align="left" alt="#" width="50%" src="#" target="_blank" />자세히
+  <img align="center" alt="#" width="50%" src="#" target="_blank" />자세히
 </a>
 <br>
 
@@ -151,7 +151,7 @@
   Front-End
 </h4>
 <a href="http://tymss0726.dothome.co.kr/RWD_Template">
-  <img align="left" alt="#" width="50%" src="#" target="_blank" />자세히
+  <img align="center" alt="#" width="50%" src="./images/lg.png/" target="_blank" />자세히
 </a>
 <br>
 
@@ -168,7 +168,7 @@
   Front-End
 </h4>
 <a href="http://tymss0726.dothome.co.kr/Makeprem">
-  <img align="left" alt="#" width="50%" src="#" target="_blank" />자세히
+  <img align="center" alt="#" width="50%" src="./images/makeprem.jpg" target="_blank" />자세히
 </a>
 <br>
 
@@ -185,7 +185,7 @@
   Front-End
 </h4>
 <a href="http://tymss0726.dothome.co.kr/Mobile_Jewelry">
-  <img align="left" alt="#" width="50%" src="#" target="_blank" />자세히
+  <img align="center" alt="#" width="50%" src="goldRica.png" target="_blank" />자세히
 </a>
 <br>
 
